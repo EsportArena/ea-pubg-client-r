@@ -20,7 +20,7 @@ Install directly from GitHub:
 
 ```r
 # Install from GitHub
-remotes::install_github("yourusername/pubg-client-r")
+remotes::install_github("EsportArena/ea-pubg-client-r")
 ```
 
 ## Usage
